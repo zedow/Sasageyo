@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/LawWalking.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/LawRunning.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/LawStanding.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/Chopper2.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/ChopperRight.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/Chopper.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/ChopperHurt.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/bouton.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/coeur01.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/coeur02.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/coeur03.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/coeurFull.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/stars.mp3</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/level01.jpg</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/spike.png</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/police.spritefont</File>
+    <File>G:/BTS SIO/Projet/Dossier_Programmation02/Sasageyo/Content/moon.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

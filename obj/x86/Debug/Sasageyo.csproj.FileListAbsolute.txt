@@ -1,0 +1,268 @@
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.exe
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.pdb
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csprojResolveAssemblyReference.cache
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.exe
+C:\Users\valen\source\repos\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.pdb
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.exe
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.pdb
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\content\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csprojResolveAssemblyReference.cache
+D:\content\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CoreCompileInputs.cache
+D:\content\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.exe
+D:\content\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.pdb
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawWalking.xnb
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawRunning.xnb
+D:\content\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawStanding.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\Chopper.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\Chopper2.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\ChopperRight.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawRunning.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawStanding.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawWalking.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.exe
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.pdb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csprojResolveAssemblyReference.cache
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CoreCompileInputs.cache
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.exe
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.pdb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\level01.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\wall.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\ChopperHurt.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\stars.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\bouton.xnb
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.menu.resources
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csproj.GenerateResource.Cache
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.Account.resources
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.Properties.Resources.resources
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.Profile.resources
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeur01.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeur02.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeur03.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeurFull.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\stars.wma
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\spike.xnb
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\police.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\bouton.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\Chopper.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\Chopper2.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\ChopperHurt.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\ChopperRight.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeur01.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeur02.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeur03.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\coeurFull.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawRunning.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawStanding.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\LawWalking.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\level01.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\moon.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\police.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\spike.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\stars.wma
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\stars.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\wall.xnb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.exe
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Sasageyo.pdb
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.Account.resources
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.connexion.resources
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.menu.resources
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.Profile.resources
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.Properties.Resources.resources
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.rules.resources
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csproj.GenerateResource.Cache
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CoreCompileInputs.cache
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.exe
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.pdb
+H:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.csprojResolveAssemblyReference.cache
+E:\Sasageyo\Sasageyo\bin\Windows\x86\Debug\Content\moon.xnb
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.connexion.resources
+E:\Sasageyo\Sasageyo\obj\x86\Debug\Sasageyo.rules.resources
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\bouton.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Chopper.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Chopper2.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\ChopperHurt.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\ChopperRight.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeur01.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeur02.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeur03.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeurFull.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\LawRunning.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\LawStanding.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\LawWalking.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\level01.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\moon.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\police.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\spike.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\stars.wma
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\stars.xnb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Sasageyo.exe
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Sasageyo.pdb
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csprojAssemblyReference.cache
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.Account.resources
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.connexion.resources
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.menu.resources
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.Profile.resources
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.Properties.Resources.resources
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.rules.resources
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csproj.GenerateResource.cache
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CopyComplete
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.exe
+D:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.pdb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\wall.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\bouton.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\Chopper.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\Chopper2.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\ChopperHurt.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\ChopperRight.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\coeur01.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\coeur02.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\coeur03.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\coeurFull.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\LawRunning.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\LawStanding.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\LawWalking.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\level01.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\moon.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\police.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\spike.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\stars.wma
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Content\stars.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\bouton.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Chopper.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\Chopper2.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\ChopperHurt.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\ChopperRight.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeur01.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeur02.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeur03.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\coeurFull.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\LawRunning.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\LawStanding.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\LawWalking.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\level01.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\moon.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\police.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\spike.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\stars.wma
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Content\stars.xnb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Sasageyo.exe
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\Sasageyo.pdb
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csprojAssemblyReference.cache
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.Account.resources
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.connexion.resources
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.menu.resources
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.Profile.resources
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.Properties.Resources.resources
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.rules.resources
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csproj.GenerateResource.cache
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CoreCompileInputs.cache
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.csproj.CopyComplete
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.exe
+G:\BTS SIO\Projet\Dossier_Programmation02\Sasageyo\obj\x86\Debug\Sasageyo.pdb
